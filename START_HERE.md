@@ -3,7 +3,7 @@
 **Research checked:** October 12, 2026  
 **Audience:** Owner of a temporary staffing agency considering employer accounts in Jonesboro, Paragould, and the surrounding Northeast Arkansas market.
 
-This is a separate staffing-agency package. It does not contain or replace the existing technology-services materials.
+This kit is designed for owner-led sales work at a temporary staffing agency serving Northeast Arkansas.
 
 ## Files
 

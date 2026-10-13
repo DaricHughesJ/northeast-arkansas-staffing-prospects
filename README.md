@@ -1,6 +1,13 @@
 # Northeast Arkansas Staffing Employer Prospects
 
-A standalone prospecting and sales enablement package for a temporary staffing agency serving Northeast Arkansas. This repository is separate from NEA-IT and contains only the staffing-agency package.
+A prospecting and sales enablement package designed for a temporary staffing agency serving Northeast Arkansas.
+
+## Open on a phone
+
+- [Top 15 employer prospects and 30-day plan (PDF)](Top_15_Employer_Prospects_and_30_Day_Plan.pdf)
+- [Employer prospects and rate model (XLSX)](Employer_Prospects_and_Rate_Model.xlsx)
+- [Staffing employer outreach playbook (PDF)](Staffing_Employer_Outreach_Playbook.pdf)
+- [Start here](START_HERE.md)
 
 ## Contents
 

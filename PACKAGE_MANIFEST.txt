@@ -1,0 +1,14 @@
+Temporary Staffing Employer Prospecting Kit
+Research checked: 2026-10-12
+
+Contents:
+- START_HERE.md
+- Employer_Prospects_and_Rate_Model.xlsx
+- Top_15_Employer_Prospects_and_30_Day_Plan.pdf
+- Staffing_Employer_Outreach_Playbook.pdf
+- employer_leads.json
+
+Prospect records: 57 unique employer candidates.
+Ranked targets: 15.
+Businesses contacted: 0.
+Evidence limitation: public hiring, employer size and expansion announcements do not prove temp-labor demand or agency use.

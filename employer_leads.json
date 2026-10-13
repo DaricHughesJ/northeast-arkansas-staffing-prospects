@@ -1,0 +1,1541 @@
+{
+  "asOf": "2026-10-12",
+  "sources": [
+    {
+      "id": "PJOBS",
+      "title": "Paragould Jobs — local employer vacancies",
+      "url": "https://www.paragouldcityar.gov/398/Paragould-Jobs",
+      "note": "Official city/economic-development page; describes itself as regularly updated. Roles are shown as of the research check, not verified as still open with each employer.",
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "PDIR",
+      "title": "Greene County Manufacturing Directory",
+      "url": "https://www.paragouldcityar.gov/343/Manufacturing-Directory",
+      "note": "Official directory listing business type, address and public main phone for many Paragould manufacturers/distributors.",
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "PLARGE",
+      "title": "Paragould / Greene County Largest Employers",
+      "url": "https://www.paragouldcityar.gov/338/Largest-Employers",
+      "note": "Employer size bands for Greene County, not necessarily a single facility headcount.",
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "JEMP",
+      "title": "Jonesboro MSA major employers and existing industries",
+      "url": "https://www.jonesborounlimited.com/major-employers-existing-industries",
+      "note": "Jonesboro Unlimited industry guide. Employment figures are regional guide figures, may not equal a specific facility or current payroll. Page includes 2026 manufacturing announcements.",
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "JADV",
+      "title": "Jonesboro MSA advanced manufacturing workforce",
+      "url": "https://www.jonesborounlimited.com/key-industries/advanced-manufacturing",
+      "note": "Reports 10,000+ manufacturing/production workers and 2026 occupational wage anchors; context only, not evidence a named employer uses temps.",
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "UNILEVER",
+      "title": "Unilever Jonesboro Machine Operator posting",
+      "url": "https://careers.unilever.com/en/job/jonesboro/machine-operator/34155/101379502736",
+      "note": "Employer-posted full-time direct-hire listing dated 2026-09-30 through 2026-10-15; listing says 2nd/3rd shifts and $26.70 base, with additional details. Recheck before use.",
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "NESTLE",
+      "title": "Nestlé Jonesboro jobs and location",
+      "url": "https://www.nestlejobs.com/locations/jonesboro",
+      "note": "Employer page confirms local production facility and shows openings at research check; technical openings are not general labor evidence.",
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "POST",
+      "title": "Post Consumer Brands Jonesboro role",
+      "url": "https://jobs.postholdings.com/postconsumerbrands-corporate/jobs/31104?lang=en-us",
+      "note": "Official job listing previously identified for a Quality and Food Safety Technician; live fetch was blocked in this run, so verify current status before mentioning.",
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "FRITO",
+      "title": "Frito-Lay / PepsiCo Jonesboro job listing",
+      "url": "https://www.pepsicojobs.com/main/jobs/P1-7158051-1?lang=en-US",
+      "note": "Official job listing previously identified for General Utility Technician in Jonesboro; live fetch was blocked in this run, so verify current status before mentioning.",
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "HYTROL",
+      "title": "Hytrol careers",
+      "url": "https://careers.hytrol.com/",
+      "note": "Company careers page; Jonesboro employment scale from regional industry guide. No specific current opening independently verified here.",
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "GREATDANE",
+      "title": "Great Dane careers",
+      "url": "https://greatdane.com/careers/",
+      "note": "Company career page. Regional guide reports local-area employment; no specific live local opening verified here.",
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "DELTA",
+      "title": "Arkansas Act 438 / SB278",
+      "url": "https://www.arkleg.state.ar.us/Bills/Detail?ddBienniumSession=2025/2025R&id=SB278",
+      "note": "Official Arkansas legislative record: Act 438, effective 2025-04-03, repealed the Private Employment Agency Act and related occupational authorization/licensure statutes. Do not infer other duties are absent.",
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "OSHA",
+      "title": "OSHA guidance on temporary workers",
+      "url": "https://www.osha.gov/temporaryworkers",
+      "note": "Agency and host employer have shared safety responsibilities; allocation depends on facts. Use as a contract/job-order intake prompt, not legal advice.",
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "OSHA_COORD",
+      "title": "OSHA communication and coordination",
+      "url": "https://www.osha.gov/safety-management/communication",
+      "note": "OSHA recommends worksite coordination, role clarity, training and hazard communication.",
+      "checked": "2026-10-12"
+    },
+    {
+      "id": "DOL",
+      "title": "U.S. DOL FLSA joint employment advisor",
+      "url": "https://webapps.dol.gov/elaws/whd/flsa/docs/joint.asp",
+      "note": "Where joint employment exists, both employers must ensure FLSA rights. Case-specific; verify details with counsel/payroll professional.",
+      "checked": "2026-10-12"
+    }
+  ],
+  "leads": [
+    {
+      "name": "ARCOT Industrial Manufacturing, LLC",
+      "city": "Paragould",
+      "industry": "Machining and fabrication",
+      "signal": "Paragould Jobs lists Fiber Laser Operator.",
+      "fit": "Fiber-laser/operator support; only if the agency can recruit for the required machine skills and safety orientation.",
+      "rank": 1,
+      "priority": "P1 — qualify now",
+      "contact": "HR / plant manager / operations manager responsible for contingent labor",
+      "phone": "870-239-3449",
+      "address": "405 N. Pruett, Paragould, AR 72450",
+      "scale": "Not published in cited sources.",
+      "sources": [
+        "Pjobs",
+        "Pdir"
+      ],
+      "caveat": "City listing is a direct-hire vacancy signal, not proof of temporary need or vendor access.",
+      "opener": "I saw the local listing for a Fiber Laser Operator. Do you ever use temporary labor for coverage or production peaks, or is this role direct-hire only?",
+      "next": "Call the published main line; ask who owns plant staffing/vendor onboarding and whether any temporary labor need exists."
+    },
+    {
+      "name": "Fabco Machine Corporation (FABCO)",
+      "city": "Paragould",
+      "industry": "Precision machining and fabrication",
+      "signal": "Paragould Jobs lists Machinist and Fabricator Programmer roles.",
+      "fit": "Machinists/fabricators if agency has skilled-trades recruiting depth; do not offer unqualified general labor as a substitute.",
+      "rank": 2,
+      "priority": "P1 — qualify now",
+      "contact": "Owner / HR / shop manager / operations manager",
+      "phone": "870-586-0743",
+      "address": "1200 Greene 628 Road, Paragould, AR 72450",
+      "scale": "Not published in cited sources.",
+      "sources": [
+        "Pjobs",
+        "Pdir"
+      ],
+      "caveat": "Specialized vacancies may require experience, measurement skills, and shop-specific screening.",
+      "opener": "The Paragould jobs page lists machinist and fabricator-programmer openings. Are there any short-term, project, or temp-to-hire gaps alongside your direct recruiting?",
+      "next": "Call published main line; qualify whether she can source machinists/programmers and whether client accepts a new agency."
+    },
+    {
+      "name": "Allen Engineering Corporation",
+      "city": "Paragould",
+      "industry": "Concrete and paving equipment manufacturing",
+      "signal": "Paragould Jobs lists Manufacturing Maintenance Technician.",
+      "fit": "Maintenance technician only if agency can verify industrial maintenance experience and any required credentials.",
+      "rank": 3,
+      "priority": "P1 — qualify now",
+      "contact": "HR / plant manager / maintenance leader",
+      "phone": "870-236-7751",
+      "address": "819 S. 5th Street, Paragould, AR 72451",
+      "scale": "Greene County employer band 100–200 (regional city page); not site headcount.",
+      "sources": [
+        "Pjobs",
+        "Pdir",
+        "Plarge"
+      ],
+      "caveat": "Maintenance is safety-sensitive and skilled; confirm exact qualifications and worksite requirements before sourcing.",
+      "opener": "I saw a Manufacturing Maintenance Technician listing in Paragould. Is that a direct-hire-only search, or do you ever use contract or temporary coverage for maintenance work?",
+      "next": "Call main line; ask to route to HR or plant leadership and confirm vendor qualification requirements."
+    },
+    {
+      "name": "Cupples Sign Company",
+      "city": "Paragould",
+      "industry": "Sign fabrication",
+      "signal": "Paragould Jobs lists Fabricator.",
+      "fit": "Fabrication/shop support during workload peaks if the agency can recruit for the required materials and tools.",
+      "rank": 4,
+      "priority": "P1 — qualify now",
+      "contact": "Owner / shop manager / HR",
+      "phone": "Not verified in cited sources.",
+      "address": "Paragould, AR (exact site address not verified in cited sources)",
+      "scale": "Not published in cited sources.",
+      "sources": [
+        "Pjobs"
+      ],
+      "caveat": "Only one fabricator role is visible; size and temp-labor use are unknown.",
+      "opener": "The local jobs page shows a Fabricator opening. Do you ever need short-term production coverage when workload increases, or are you handling hiring entirely in-house?",
+      "next": "Use employer listing on the city page to reach the official application/contact route; verify the correct site and decision-maker."
+    },
+    {
+      "name": "Laubach Logistics",
+      "city": "Paragould area",
+      "industry": "Logistics and trucking",
+      "signal": "Paragould Jobs lists CDL drivers.",
+      "fit": "CDL drivers only if agency is set up for license verification, motor-vehicle checks, insurance/client standards, and safety screening.",
+      "rank": 5,
+      "priority": "P1 — qualify now",
+      "contact": "Terminal manager / recruiting / safety / owner",
+      "phone": "Not verified in cited sources.",
+      "address": "Paragould-area listing; physical worksite not verified.",
+      "scale": "Not published in cited sources.",
+      "sources": [
+        "Pjobs"
+      ],
+      "caveat": "Commercial driving carries specialized screening, insurance, and safety constraints; do not pitch before capability is confirmed.",
+      "opener": "The local jobs page lists CDL drivers. Are any of those openings tied to leave, seasonal volume, or a temporary route need, and what carrier/vendor checks would an agency have to meet?",
+      "next": "Verify local operating site and agency/client insurance requirements before offering candidates."
+    },
+    {
+      "name": "Delta Asphalt",
+      "city": "Paragould / Greene County",
+      "industry": "Road construction and paving",
+      "signal": "Paragould Jobs lists paving crew laborer, finish blade operator, heavy-equipment operator, and related roles.",
+      "fit": "Seasonal/project crews if agency can handle construction safety, site orientation, and equipment qualifications.",
+      "rank": 6,
+      "priority": "P1 — qualify now",
+      "contact": "Local operations manager / project manager / HR / safety lead",
+      "phone": "Not verified in cited sources.",
+      "address": "Greene County listing; exact worksite varies by project.",
+      "scale": "Not published in cited sources.",
+      "sources": [
+        "Pjobs"
+      ],
+      "caveat": "Project locations, seasonality, equipment certification, and safety controls need to be confirmed; page roles may be direct hire.",
+      "opener": "I saw several paving and operator roles listed locally. Do you ever need temporary crew coverage for a project or seasonal surge, and which qualifications are non-negotiable?",
+      "next": "Verify agency ability to cover mobile worksites, safety coordination, and travel before pursuing."
+    },
+    {
+      "name": "Nunn’s Construction",
+      "city": "Paragould / Greene County",
+      "industry": "Construction",
+      "signal": "Paragould Jobs lists Construction Worker.",
+      "fit": "General construction labor only if agency has appropriate safety, screening, worksite, and insurance processes.",
+      "rank": 7,
+      "priority": "P1 — qualify now",
+      "contact": "Owner / project manager / safety lead",
+      "phone": "Not verified in cited sources.",
+      "address": "Greene County listing; exact site not verified.",
+      "scale": "Not published in cited sources.",
+      "sources": [
+        "Pjobs"
+      ],
+      "caveat": "Construction roles can involve high hazards and variable job sites; verify insurance and safety responsibilities before quoting.",
+      "opener": "I noticed the local listing for a Construction Worker. Do you ever need short-duration crew coverage on projects, or is your need strictly permanent hiring?",
+      "next": "Ask about worksite hazards, assignment length, required training/PPE, and any contractor-vendor criteria."
+    },
+    {
+      "name": "Martin Sprocket & Gear",
+      "city": "Paragould",
+      "industry": "Sprockets, gears, and industrial components",
+      "signal": "Paragould Jobs lists CNC Machine Operator, Machine Operator, Powder Press Operator, and Quality Control Inspector.",
+      "fit": "Machine operators and quality inspectors if screening can verify safety, measurement, and equipment experience.",
+      "rank": 8,
+      "priority": "P1 — qualify now",
+      "contact": "HR / plant manager / operations leader / procurement vendor contact",
+      "phone": "870-239-8558",
+      "address": "1205 South 3rd Avenue, Paragould, AR 72450",
+      "scale": "Greene County employer band 200–500 (regional city page); not site headcount.",
+      "sources": [
+        "Pjobs",
+        "Pdir",
+        "Plarge"
+      ],
+      "caveat": "Multiple listed role families are evidence of recruiting activity only. Larger-company vendor onboarding may be significant.",
+      "opener": "The local listing shows several operator and quality roles. Are there specific shifts or production periods where temporary coverage helps, or are all roles direct hire?",
+      "next": "Ask about contingent-labor policy, vendor onboarding, shifts, screening and bill-rate approval process."
+    },
+    {
+      "name": "KNL Holdings, LLC",
+      "city": "Paragould",
+      "industry": "Material handling trailers",
+      "signal": "Paragould Jobs lists Final Assemblers and Welders (plus technical roles).",
+      "fit": "Assembly and welding only if agency has verified trade-specific skills and can meet site safety requirements.",
+      "rank": 9,
+      "priority": "P1 — qualify now",
+      "contact": "HR / operations manager / production manager",
+      "phone": "870-236-7753",
+      "address": "603 N. 3rd Avenue, Paragould, AR 72451",
+      "scale": "Greene County employer band 100–200; not site headcount.",
+      "sources": [
+        "Pjobs",
+        "Pdir",
+        "Plarge"
+      ],
+      "caveat": "Welding assignments require confirmation of process, position, testing, certification, and PPE/site requirements.",
+      "opener": "The public local listing includes final assemblers and welders. Are any staffing needs temporary, project-based, or temp-to-hire, and what weld test or experience would be required?",
+      "next": "Ask which roles are open to agency supply and what skills tests, orientation, and vendor paperwork apply."
+    },
+    {
+      "name": "GRT Rubber Technologies",
+      "city": "Paragould",
+      "industry": "Rubber conveyor belts and sheet rubber",
+      "signal": "Paragould Jobs lists Inline Operator and several technical/management roles.",
+      "fit": "Inline/operator support if agency can recruit and document relevant production experience.",
+      "rank": 10,
+      "priority": "P1 — qualify now",
+      "contact": "HR / plant manager / production manager",
+      "phone": "870-239-4051",
+      "address": "201 Dana Drive, Paragould, AR 72451",
+      "scale": "Not published in cited sources.",
+      "sources": [
+        "Pjobs",
+        "Pdir"
+      ],
+      "caveat": "A vacancy does not establish recurring turnover, agency use, or willingness to onboard a new vendor.",
+      "opener": "I saw the Inline Operator role on the local jobs page. Do you ever use temporary help for coverage or production surges, and what would a reliable agency need to demonstrate?",
+      "next": "Call published line; determine whether need is coverage, peak volume, or direct-hire only."
+    },
+    {
+      "name": "Prysmian Group / Prestolite Wire",
+      "city": "Paragould",
+      "industry": "Wire and cable manufacturing",
+      "signal": "Paragould Jobs lists Night Shift Machine Operator and Maintenance Operator.",
+      "fit": "Machine operators/maintenance only if agency matches shift availability and technical screening needs.",
+      "rank": 11,
+      "priority": "P1 — qualify now",
+      "contact": "HR / plant manager / procurement / operations",
+      "phone": "870-236-8141",
+      "address": "#1 Prestolite Drive, Paragould, AR 72450",
+      "scale": "Greene County employer band 200–500 for Prysmian/Prestolite Wire (not local-site headcount).",
+      "sources": [
+        "Pjobs",
+        "Pdir",
+        "Plarge"
+      ],
+      "caveat": "Corporate vendor rules and safety-sensitive roles may add onboarding time and cost.",
+      "opener": "The Paragould job list shows a night-shift operator and maintenance role. Are any of your staffing gaps shift coverage or temporary capacity, and how do you approve staffing suppliers?",
+      "next": "Ask for the local HR/plant contact and supplier onboarding steps; confirm shift differential/pay expectations."
+    },
+    {
+      "name": "Utility Trailer Manufacturing",
+      "city": "Paragould",
+      "industry": "Dry box trailer manufacturing",
+      "signal": "Paragould Jobs lists Fabricator, Assembler, and Welder roles.",
+      "fit": "Assembly/fabrication/welding based on the agency’s actual skill-screening and safety capability.",
+      "rank": 12,
+      "priority": "P1 — qualify now",
+      "contact": "HR / plant manager / production supervisor / vendor management",
+      "phone": "870-236-9195",
+      "address": "2921 Highway 49 North, Paragould, AR 72451",
+      "scale": "Greene County employer band 700–1,100; not a single-site headcount.",
+      "sources": [
+        "Pjobs",
+        "Pdir",
+        "Plarge"
+      ],
+      "caveat": "Large local employer likely has a formal vendor path; verify before spending time on a custom proposal.",
+      "opener": "I saw the local postings for assemblers, fabricators and welders. Does the plant ever use temporary or temp-to-hire labor for any of those shifts, and how can a new supplier qualify?",
+      "next": "First ask whether new agency suppliers are accepted and who owns supplier qualification."
+    },
+    {
+      "name": "Anchor Packaging / Georgia-Pacific (Paragould operations)",
+      "city": "Paragould / Marmaduke",
+      "industry": "Food packaging manufacturing and distribution",
+      "signal": "Paragould Jobs lists sheetline/extruder operator, material handler, packer, production operator, and quality auditor; local directory lists two production sites and a distribution center.",
+      "fit": "Production, packing, and material handling are plausible role families if facility accepts agencies and she can satisfy safety requirements.",
+      "rank": 13,
+      "priority": "P1 — qualify now",
+      "contact": "Site HR / plant manager / distribution-center operations / vendor management",
+      "phone": "870-236-2262 (Paragould production); 870-565-1884 (regional distribution center)",
+      "address": "2211 N. 12th Avenue, Paragould, AR 72450; DC at 1600 Jones Road",
+      "scale": "Greene County city page lists Anchor Industries at 700–1,100; name/entity match should be confirmed.",
+      "sources": [
+        "Pjobs",
+        "Pdir",
+        "Plarge"
+      ],
+      "caveat": "Multiple locations and changing operator/entity names; confirm the legal hiring entity, location, shift, and supplier process.",
+      "opener": "The local listing shows production, material-handling and packing roles, and the directory lists a regional distribution center. Is there a temporary coverage or peak-volume need at any one site?",
+      "next": "Clarify which facility is hiring, role/shift, whether agency vendors are permitted, and how each site handles safety orientation."
+    },
+    {
+      "name": "Greenbrier Rail",
+      "city": "Paragould / Marmaduke",
+      "industry": "Hopper and tank railcar manufacturing",
+      "signal": "Paragould Jobs lists Welder 2; local directory confirms Paragould and Marmaduke facilities.",
+      "fit": "Experienced welders only if agency can validate process-specific skill and coordinate site safety requirements.",
+      "rank": 14,
+      "priority": "P1 — qualify now",
+      "contact": "Site HR / welding supervisor / plant manager / procurement",
+      "phone": "870-236-6600 (Paragould); 870-597-2224 (Marmaduke)",
+      "address": "901 Jones Road, Paragould; 7755 Highway 34 East, Marmaduke",
+      "scale": "Greene County employer band 1,100–1,300; not facility-specific.",
+      "sources": [
+        "Pjobs",
+        "Pdir",
+        "Plarge"
+      ],
+      "caveat": "High-hazard industrial work and formal supplier requirements are likely to affect fit, but must be verified. Company careers page’s temporary-employee portal does not prove outside-agency use.",
+      "opener": "The local page lists a Welder 2 role. Does the site ever source temporary welders or short-term project coverage through outside agencies, and what weld test and safety qualifications are required?",
+      "next": "Qualify supplier access and weld/safety competency expectations before recruiting candidates."
+    },
+    {
+      "name": "Delta Peanut",
+      "city": "Jonesboro area",
+      "industry": "Peanut shelling and processing",
+      "signal": "Jonesboro Unlimited lists 150 area employees; historical major-employer/expansion listing, but no current vacancy independently verified.",
+      "fit": "Seasonal processing, packaging, or warehouse coverage is a hypothesis; ask about harvest/production calendar and current supply chain.",
+      "rank": null,
+      "priority": "P2 — targeted qualify",
+      "contact": "Plant HR / operations / seasonal workforce coordinator",
+      "phone": "Not verified in cited sources.",
+      "address": "Jonesboro MSA; exact worksite/contact not verified in cited sources.",
+      "scale": "150 reported in Jonesboro MSA guide; period/site scope should be verified.",
+      "sources": [
+        "Jemp"
+      ],
+      "caveat": "No current opening or temp-agency use verified; treat as a calendar-based qualification call, not a hot lead.",
+      "opener": "Your company is listed among the region’s food-processing employers. How does seasonal volume affect staffing, and do you use outside suppliers for short-term production coverage?",
+      "next": "Check harvest/production calendar and local worksite before scheduling a discovery call."
+    },
+    {
+      "name": "Unilever (Jonesboro)",
+      "city": "Jonesboro",
+      "industry": "Personal-care product manufacturing",
+      "signal": "Employer career page listed Machine Operator full-time role posted 2026-09-30 through 2026-10-15, including second/third shifts; direct-hire posting.",
+      "fit": "Experienced machine operators and maintenance support if agency meets vendor rules, technical checks, and shift requirements.",
+      "rank": 15,
+      "priority": "P2 — targeted qualify",
+      "contact": "Plant HR / contingent-labor or procurement lead / operations",
+      "phone": "Not verified in cited sources.",
+      "address": "Jonesboro, AR (facility page); exact street address not verified here.",
+      "scale": "392 in Jonesboro MSA 2025 guide; not a current site headcount.",
+      "sources": [
+        "Unilever",
+        "Jemp"
+      ],
+      "caveat": "Posting explicitly describes full-time direct hire. Its temporary-labor need is unverified; large-company vendor entry may be difficult.",
+      "opener": "I saw the Jonesboro Machine Operator posting and its second/third-shift schedules. Are those needs strictly direct hire, or does the plant also use staffing suppliers for coverage or ramp-ups?",
+      "next": "Prioritize only after confirming the listing is active and that the plant can accept a new staffing supplier."
+    },
+    {
+      "name": "Nestlé Prepared Foods (Jonesboro)",
+      "city": "Jonesboro",
+      "industry": "Frozen food manufacturing and temperature-controlled supply chain",
+      "signal": "Official Jonesboro location page shows local openings (including Controls Technician, Electrical & Automation Engineer, and other roles at research check).",
+      "fit": "Technical maintenance/controls roles only if agency can source credentialed, experienced candidates; do not infer general production demand from skilled openings.",
+      "rank": null,
+      "priority": "P2 — targeted qualify",
+      "contact": "Plant HR / maintenance recruiting / procurement",
+      "phone": "Not verified in cited sources.",
+      "address": "Jonesboro, AR (official location page); exact street address not included here.",
+      "scale": "700 in Jonesboro MSA guide; source is regional/guide figure.",
+      "sources": [
+        "Nestle",
+        "Jemp"
+      ],
+      "caveat": "Current openings seen are specialized and full-time. Adjacent Millard warehouse operator is a separate company and must be verified as a separate account.",
+      "opener": "The Jonesboro careers page currently shows technical plant openings. Does the facility use staffing partners for skilled coverage or project work, or are all roles recruited directly?",
+      "next": "Confirm role requirements, vendor policy and whether client would consider the agency’s candidate pool."
+    },
+    {
+      "name": "Frito-Lay (Jonesboro)",
+      "city": "Jonesboro",
+      "industry": "Snack-food production and distribution",
+      "signal": "Official PepsiCo job listing previously identified for General Utility Technician in Jonesboro; live page access was blocked during current check.",
+      "fit": "Production/warehouse support may fit if there are hourly roles and supplier access; skilled technician roles require capability match.",
+      "rank": null,
+      "priority": "P2 — verify first",
+      "contact": "Plant HR / talent acquisition / supplier management",
+      "phone": "Not verified in cited sources.",
+      "address": "Jonesboro, AR; exact site address not verified here.",
+      "scale": "1,075 in Jonesboro MSA guide; guide figure, not facility-specific current headcount.",
+      "sources": [
+        "Frito",
+        "Jemp"
+      ],
+      "caveat": "Role status must be checked before outreach; page has not been independently verified current in this run. No evidence of temp use.",
+      "opener": "I’m checking whether the Jonesboro site uses approved staffing suppliers for production or short-term coverage. Who handles contingent-labor sourcing and vendor approval?",
+      "next": "Re-open official job listing; verify current status and ask about approved-supplier process."
+    },
+    {
+      "name": "Post Consumer Brands (Jonesboro)",
+      "city": "Jonesboro",
+      "industry": "Cereal manufacturing",
+      "signal": "Official job listing previously identified for Quality and Food Safety Technician; page returned access denied during current check.",
+      "fit": "Quality, packaging, or production support only if her screening capability and client-vendor route match the actual openings.",
+      "rank": null,
+      "priority": "P2 — verify first",
+      "contact": "Plant HR / quality recruiting / operations / procurement",
+      "phone": "Not verified in cited sources.",
+      "address": "Jonesboro, AR; exact street address not verified here.",
+      "scale": "205 in Jonesboro MSA guide; source is regional/guide figure.",
+      "sources": [
+        "Post",
+        "Jemp"
+      ],
+      "caveat": "Current vacancy status could not be rechecked; specific technician post is skilled and direct hire may be preferred.",
+      "opener": "Does the Jonesboro operation use staffing suppliers for any temporary production or coverage roles, or are your external vendors limited to direct-hire recruiting?",
+      "next": "Verify current official posting and supplier onboarding route before investing in outreach."
+    },
+    {
+      "name": "Hytrol Conveyor Company",
+      "city": "Jonesboro",
+      "industry": "Conveyor and material-handling equipment manufacturing",
+      "signal": "Jonesboro MSA industry guide reports approximately 1,400 area employees and historical expansions; company careers page is available, but no live opening independently verified here.",
+      "fit": "Assembly, welding, machining, material handling, or short-term production support only after confirming current hiring and vendor access.",
+      "rank": null,
+      "priority": "P2 — targeted qualify",
+      "contact": "Plant HR / operations / talent acquisition / supplier management",
+      "phone": "Not verified in cited sources.",
+      "address": "Jonesboro-area facility; exact address not verified here.",
+      "scale": "1,400 in Jonesboro MSA industry guide; may not equal Jonesboro-only site count.",
+      "sources": [
+        "Jemp",
+        "Hytrol",
+        "Jadv"
+      ],
+      "caveat": "Large employer and historical growth do not establish current labor need. Supplier qualification may be a long cycle.",
+      "opener": "When production volume changes, do you use external staffing vendors for short-term coverage, or do you fill production roles through your own recruiting process?",
+      "next": "Contact HR/vendor management with a capability sheet only after the agency confirms the role categories it can fill."
+    },
+    {
+      "name": "Great Dane Trailers (Jonesboro)",
+      "city": "Jonesboro",
+      "industry": "Dry-van trailer manufacturing",
+      "signal": "Jonesboro MSA guide lists approximately 405 area employees; no current local vacancy independently verified in this run.",
+      "fit": "Fabrication/assembly roles only if agency can meet physical, welding/production, and safety screening needs.",
+      "rank": null,
+      "priority": "P2 — targeted qualify",
+      "contact": "Plant HR / production / procurement / supplier management",
+      "phone": "Not verified in cited sources.",
+      "address": "Jonesboro, AR; exact street address not verified here.",
+      "scale": "405 in Jonesboro MSA guide; may not equal facility-only headcount.",
+      "sources": [
+        "Jemp",
+        "GreatDane"
+      ],
+      "caveat": "Historical/guide scale is not evidence of present hiring. Prior operations listing references staffing plans but its current status is unverified.",
+      "opener": "Does the Jonesboro operation ever use staffing vendors for production coverage or peak workloads, and what supplier criteria would a new local agency need to meet?",
+      "next": "Ask whether the site is taking new suppliers and what roles/shifts are relevant this quarter."
+    },
+    {
+      "name": "Nice-Pak Products (Jonesboro)",
+      "city": "Jonesboro",
+      "industry": "Pre-moistened wipes manufacturing",
+      "signal": "Jonesboro MSA guide lists approximately 450 area employees and historical expansions; no current local vacancy independently verified here.",
+      "fit": "Packaging/operator/warehouse support is a role-fit hypothesis only; verify local openings and supplier acceptance.",
+      "rank": null,
+      "priority": "P2 — targeted qualify",
+      "contact": "Plant HR / production staffing lead / procurement",
+      "phone": "Not verified in cited sources.",
+      "address": "Jonesboro, AR; exact street address not verified here.",
+      "scale": "450 in Jonesboro MSA guide; not current facility payroll.",
+      "sources": [
+        "Jemp",
+        "Jadv"
+      ],
+      "caveat": "Past expansion figures are dated. No present temp need or staffing vendor use verified.",
+      "opener": "Has the Jonesboro facility had any seasonal or shift-coverage needs for packaging or production workers, and do you accept local staffing suppliers?",
+      "next": "Verify role demand and whether the employer uses direct recruiting, staffing, or both."
+    },
+    {
+      "name": "FMH Conveyors (Jonesboro)",
+      "city": "Jonesboro",
+      "industry": "Conveyor systems manufacturing",
+      "signal": "Jonesboro MSA guide lists approximately 325 area employees; no current local vacancy independently verified.",
+      "fit": "Assembly/fabrication/material-handling role support if current site need and skill criteria are confirmed.",
+      "rank": null,
+      "priority": "P2 — targeted qualify",
+      "contact": "Plant HR / operations / production manager",
+      "phone": "Not verified in cited sources.",
+      "address": "Jonesboro, AR; exact address not verified in this source set.",
+      "scale": "325 in Jonesboro MSA guide; not current site-specific count.",
+      "sources": [
+        "Jemp"
+      ],
+      "caveat": "Scale only; no current job or staffing-vendor evidence. Do not frame as a known need.",
+      "opener": "Do production peaks, absences, or project schedules create temporary labor needs at the Jonesboro plant, or do you rely entirely on direct hiring?",
+      "next": "Confirm local worksite, shift coverage needs, and vendor onboarding process."
+    },
+    {
+      "name": "Riceland Foods (Jonesboro)",
+      "city": "Jonesboro",
+      "industry": "Rice milling and food distribution",
+      "signal": "Jonesboro MSA guide lists approximately 445 area employees for Jonesboro operation; no current local opening independently verified.",
+      "fit": "Seasonal processing, packaging, warehouse, or material-moving assignments may fit if seasonal rhythm and job requirements support it.",
+      "rank": null,
+      "priority": "P2 — targeted qualify",
+      "contact": "Local operations / HR / workforce planning",
+      "phone": "Not verified in cited sources.",
+      "address": "Jonesboro, AR; exact location not confirmed in this research set.",
+      "scale": "445 in Jonesboro MSA guide; distinguish Jonesboro location from Waldenburg listing.",
+      "sources": [
+        "Jemp",
+        "Jadv"
+      ],
+      "caveat": "No current opening or outside agency use verified; seasonal demand is a question to ask, not a fact.",
+      "opener": "How does the Jonesboro operation handle staffing across seasonal production and shipping cycles, and are any temporary assignments sourced externally?",
+      "next": "Ask about seasonality calendar, location, job categories, safety screening and vendor criteria."
+    },
+    {
+      "name": "TrinityRail Maintenance Services (Jonesboro)",
+      "city": "Jonesboro",
+      "industry": "Railcar maintenance",
+      "signal": "Jonesboro MSA guide lists approximately 236 employees; no current local vacancy independently verified.",
+      "fit": "Railcar maintenance labor only if agency has relevant trade recruiting, site safety practices, and required qualifications.",
+      "rank": null,
+      "priority": "P2 — targeted qualify",
+      "contact": "Site HR / maintenance manager / safety / procurement",
+      "phone": "Not verified in cited sources.",
+      "address": "Jonesboro, AR; exact site address not confirmed in this research set.",
+      "scale": "236 in Jonesboro MSA guide; not current site-specific count.",
+      "sources": [
+        "Jemp",
+        "Jadv"
+      ],
+      "caveat": "Rail maintenance can involve elevated hazards and specialized qualifications; do not offer general labor without task-specific review.",
+      "opener": "Do railcar maintenance schedules ever require outside temporary craft support, and what safety, training, and supplier qualifications would apply?",
+      "next": "Confirm role restrictions, hazard profile, insurance and vendor onboarding before discussing candidates."
+    },
+    {
+      "name": "Arkansas Glass Container Corporation",
+      "city": "Jonesboro area",
+      "industry": "Glass-container manufacturing",
+      "signal": "Jonesboro MSA guide lists approximately 235 employees; no current local opening independently verified.",
+      "fit": "Packaging/production/maintenance only after confirming current roles, worksite hazards, shift needs and screening requirements.",
+      "rank": null,
+      "priority": "P2 — targeted qualify",
+      "contact": "Plant HR / operations / safety",
+      "phone": "Not verified in cited sources.",
+      "address": "Jonesboro MSA; exact site location not confirmed in this research set.",
+      "scale": "235 in Jonesboro MSA guide.",
+      "sources": [
+        "Jemp",
+        "Jadv"
+      ],
+      "caveat": "No current hiring or staffing vendor use verified. Glass production is safety-sensitive; agency capabilities matter.",
+      "opener": "Does the plant use temporary workers for production or coverage? If so, which work areas and safety qualifications are required before a supplier can be considered?",
+      "next": "Confirm site-specific hazards, training ownership and worker qualification standards."
+    },
+    {
+      "name": "Best Manufacturing (Jonesboro)",
+      "city": "Jonesboro",
+      "industry": "Laser cutting, metal fabrication, painting, powder coating, welding",
+      "signal": "Jonesboro MSA guide lists approximately 110 employees and a past expansion; no current job independently verified.",
+      "fit": "Fabrication, welding, paint/powder, or production support based on confirmed skill-screening and PPE readiness.",
+      "rank": null,
+      "priority": "P2 — targeted qualify",
+      "contact": "Owner / plant manager / HR / safety lead",
+      "phone": "Not verified in cited sources.",
+      "address": "Jonesboro, AR; exact street address not confirmed here.",
+      "scale": "110 in Jonesboro MSA guide.",
+      "sources": [
+        "Jemp"
+      ],
+      "caveat": "Historical 2022 expansion is not current demand. Need, skill tests, PPE and safety are unknown.",
+      "opener": "Do you use temporary staffing for fabrication or production peaks, and are any roles suitable for short-term or temp-to-hire candidates?",
+      "next": "Ask whether agency vendors are accepted and which certifications/tests are required."
+    },
+    {
+      "name": "Camfil APC (Jonesboro)",
+      "city": "Jonesboro",
+      "industry": "Air-filtration equipment manufacturing",
+      "signal": "Jonesboro MSA guide lists approximately 305 employees; no current local vacancy independently verified.",
+      "fit": "Assembly, machine operation or warehouse roles are hypotheses; verify shifts and role requirements first.",
+      "rank": null,
+      "priority": "P2 — targeted qualify",
+      "contact": "Plant HR / operations / supplier management",
+      "phone": "Not verified in cited sources.",
+      "address": "Jonesboro, AR; exact address not confirmed here.",
+      "scale": "305 in Jonesboro MSA guide.",
+      "sources": [
+        "Jemp"
+      ],
+      "caveat": "Scale only and no current hiring evidence; no claim of staffing agency usage.",
+      "opener": "Has your Jonesboro operation had any shift-coverage or production-volume staffing gaps, and would you consider a local staffing supplier if the role and vendor requirements fit?",
+      "next": "Confirm whether the site accepts new supplier relationships and the role types it outsources."
+    },
+    {
+      "name": "Jonesboro Tool & Die Company",
+      "city": "Jonesboro",
+      "industry": "Tooling, dies, jigs and fixtures",
+      "signal": "Jonesboro MSA guide lists approximately 85 employees; no current local vacancy independently verified.",
+      "fit": "Machinist/toolmaker roles only if agency can source qualified candidates and verify technical experience.",
+      "rank": null,
+      "priority": "P2 — targeted qualify",
+      "contact": "Owner / shop manager / HR",
+      "phone": "Not verified in cited sources.",
+      "address": "Jonesboro, AR; exact address not confirmed in this research set.",
+      "scale": "85 in Jonesboro MSA guide.",
+      "sources": [
+        "Jemp"
+      ],
+      "caveat": "Smaller scale may mean direct hiring; specialized skill scarcity can make recruiting useful but is not established.",
+      "opener": "Do you ever bring in contract or temporary machinists/toolmakers for backlog or leave coverage, or do you prefer direct-hire only?",
+      "next": "Confirm trade skills, work tests, assignment length, and whether an agency arrangement is viable."
+    },
+    {
+      "name": "JMS Russell Metals Corporation",
+      "city": "Jonesboro",
+      "industry": "Steel processing and warehouse",
+      "signal": "Jonesboro MSA guide lists approximately 50 employees; no current local opening independently verified.",
+      "fit": "Warehouse/material handling/processing roles if current business need and equipment certifications are confirmed.",
+      "rank": null,
+      "priority": "P2 — targeted qualify",
+      "contact": "Branch manager / operations / HR",
+      "phone": "Not verified in cited sources.",
+      "address": "Jonesboro, AR; exact address not verified here.",
+      "scale": "50 in Jonesboro MSA guide.",
+      "sources": [
+        "Jemp",
+        "Jadv"
+      ],
+      "caveat": "Small-site scale does not prove temp demand; powered-equipment safety requirements may apply.",
+      "opener": "Do you ever need short-term warehouse or steel-processing coverage, and what experience or equipment training would a staffing supplier have to verify?",
+      "next": "Ask about forklift/equipment credentials, worksite hazards and local decision maker."
+    },
+    {
+      "name": "Ryder (Jonesboro refrigerated warehouse)",
+      "city": "Jonesboro",
+      "industry": "Refrigerated warehousing",
+      "signal": "Jonesboro MSA guide lists approximately 55 employees; no current local opening independently verified.",
+      "fit": "Warehouse, loading, inventory, or seasonal receiving roles if the local operation accepts suppliers.",
+      "rank": null,
+      "priority": "P2 — targeted qualify",
+      "contact": "Warehouse/site manager / HR / vendor management",
+      "phone": "Not verified in cited sources.",
+      "address": "Jonesboro, AR; exact location and current operating entity not verified.",
+      "scale": "55 in Jonesboro MSA guide.",
+      "sources": [
+        "Jemp",
+        "Jadv"
+      ],
+      "caveat": "Confirm the current local operator/entity before outreach; cold-chain, sanitation, and equipment requirements may apply.",
+      "opener": "Does the Jonesboro cold-storage operation use temporary help for receiving, picking, or peak volume, and which supplier and safety standards apply?",
+      "next": "Verify site operator, location, shift, temperature/PPE conditions, and vendor policy."
+    },
+    {
+      "name": "Roach Conveyors",
+      "city": "Jonesboro area",
+      "industry": "Material-handling conveyor manufacturing",
+      "signal": "Jonesboro MSA guide lists approximately 299 employees; no current local opening independently verified.",
+      "fit": "Assembly, fabrication, warehouse, or technician work only after verifying role and agency capacity.",
+      "rank": null,
+      "priority": "P2 — targeted qualify",
+      "contact": "Plant HR / production operations / procurement",
+      "phone": "Not verified in cited sources.",
+      "address": "Jonesboro MSA; exact site details not verified in this research set.",
+      "scale": "299 in Jonesboro MSA guide.",
+      "sources": [
+        "Jemp"
+      ],
+      "caveat": "Employment guide scale only. Current openings and agency use are unknown.",
+      "opener": "Do production or project schedules create temporary workforce needs at your local operation, and are new staffing suppliers considered?",
+      "next": "Confirm exact local operation and vendor onboarding contact."
+    },
+    {
+      "name": "Windmill Rice Company",
+      "city": "Jonesboro area",
+      "industry": "Rice milling and by-products",
+      "signal": "Jonesboro MSA guide lists approximately 75 employees; no current local vacancy independently verified.",
+      "fit": "Seasonal processing, warehouse or production roles if the company has short-term capacity needs.",
+      "rank": null,
+      "priority": "P2 — targeted qualify",
+      "contact": "Operations manager / HR / owner",
+      "phone": "Not verified in cited sources.",
+      "address": "Jonesboro MSA; exact location not confirmed in this research set.",
+      "scale": "75 in Jonesboro MSA guide.",
+      "sources": [
+        "Jemp",
+        "Jadv"
+      ],
+      "caveat": "No current hiring or outside agency use evidence; confirm seasonality and operating location.",
+      "opener": "Do your production or shipping cycles create temporary staffing needs, or are all positions filled directly?",
+      "next": "Ask when volume peaks occur and whether the agency’s available roles align."
+    },
+    {
+      "name": "Scurlock Industries of Jonesboro",
+      "city": "Jonesboro",
+      "industry": "Concrete pipe and precast products",
+      "signal": "Jonesboro MSA guide lists approximately 180 employees; no current vacancy independently verified.",
+      "fit": "Production, yard, concrete/precast, or material-moving work only if safety and experience match.",
+      "rank": null,
+      "priority": "P2 — targeted qualify",
+      "contact": "Plant manager / operations / safety / HR",
+      "phone": "Not verified in cited sources.",
+      "address": "Jonesboro, AR; exact site address not verified.",
+      "scale": "180 in Jonesboro MSA guide.",
+      "sources": [
+        "Jemp",
+        "Jadv"
+      ],
+      "caveat": "Potential physical and equipment hazards; no active temp requirement or staffing vendor use verified.",
+      "opener": "Does the plant use temporary workers for production, yard, or peak-shipment coverage, and what site-specific training would be required?",
+      "next": "Qualify hazards, PPE, worksite orientation, and job-specific requirements before sourcing."
+    },
+    {
+      "name": "Southern Cast Products",
+      "city": "Jonesboro area",
+      "industry": "Metal casting and machining",
+      "signal": "Jonesboro MSA guide lists approximately 60 employees; no current local vacancy independently verified.",
+      "fit": "Foundry/machining/finishing roles only if agency can recruit for hazardous industrial work and coordinate safety duties.",
+      "rank": null,
+      "priority": "P2 — targeted qualify",
+      "contact": "Plant manager / HR / safety / owner",
+      "phone": "Not verified in cited sources.",
+      "address": "Jonesboro MSA; exact location not confirmed.",
+      "scale": "60 in Jonesboro MSA guide.",
+      "sources": [
+        "Jemp",
+        "Jadv"
+      ],
+      "caveat": "Foundry work can be high-hazard; do not pitch until agency readiness and client safety controls are verified.",
+      "opener": "Do you ever use outside staffing for short-term foundry or machining work, and what site hazard, training, PPE, and experience requirements apply?",
+      "next": "Do a safety/vendor fit screen before any candidate sourcing."
+    },
+    {
+      "name": "Tenneco (Paragould)",
+      "city": "Paragould",
+      "industry": "Shock absorbers and struts manufacturing",
+      "signal": "Listed in Greene County largest employers; no specific current local opening verified in the checked public jobs source.",
+      "fit": "Production, machine operation, or maintenance only if a local vacancy or coverage need is confirmed.",
+      "rank": null,
+      "priority": "P2 — scale-based qualify",
+      "contact": "Plant HR / operations / contingent-labor or supplier manager",
+      "phone": "870-239-8531",
+      "address": "1601 Highway 49B, Paragould, AR 72450",
+      "scale": "Greene County employer band 1,100–1,300; not facility-specific.",
+      "sources": [
+        "Pdir",
+        "Plarge"
+      ],
+      "caveat": "Large enterprise procurement and vendor qualification may make this a longer-cycle account; no temp use verified.",
+      "opener": "Does the Paragould site ever use outside staffing suppliers for temporary production or shift coverage, and are new local vendors accepted?",
+      "next": "Check whether local HR can direct her to contingent-labor procurement; do not start with broad candidate claims."
+    },
+    {
+      "name": "Gerdau Corporation (Paragould)",
+      "city": "Paragould",
+      "industry": "Railroad-spike manufacturing",
+      "signal": "Official Greene County manufacturing directory lists the operation; no current local vacancy independently verified.",
+      "fit": "Production/industrial roles only if agency can satisfy specific safety, training, and role requirements.",
+      "rank": null,
+      "priority": "P2 — scale-based qualify",
+      "contact": "Plant HR / operations / safety / procurement",
+      "phone": "870-239-5010",
+      "address": "1301 Jones Road, Paragould, AR 72450",
+      "scale": "Not published in cited sources.",
+      "sources": [
+        "Pdir"
+      ],
+      "caveat": "No current vacancy or staffing-vendor evidence. Metal production safety and supplier requirements require screening.",
+      "opener": "Does your Paragould operation ever use temporary labor for production coverage, and what supplier and safety requirements should an agency meet?",
+      "next": "Ask whether agencies are accepted and who owns local supplier qualification."
+    },
+    {
+      "name": "Axis Worldwide (Paragould)",
+      "city": "Paragould",
+      "industry": "Axle manufacturing",
+      "signal": "Official Greene County directory lists Paragould manufacturing site; no current vacancy independently verified.",
+      "fit": "Assembly and manufacturing support if site has a current volume or shift-coverage need.",
+      "rank": null,
+      "priority": "P2 — scale-based qualify",
+      "contact": "Plant HR / operations / vendor management",
+      "phone": "870-215-4500",
+      "address": "705 Jones Road, Paragould, AR 72450",
+      "scale": "Not published in cited sources.",
+      "sources": [
+        "Pdir"
+      ],
+      "caveat": "Directory confirms industry and site only; current staffing need and agency use are unknown.",
+      "opener": "How does the Paragould operation handle temporary production coverage or volume increases, and do you accept staffing suppliers?",
+      "next": "Confirm current worksite, role/shift, vendor requirements and buying contact."
+    },
+    {
+      "name": "Nidec Motor Corporation (Paragould)",
+      "city": "Paragould",
+      "industry": "Appliance and automotive components manufacturing",
+      "signal": "Official Greene County directory lists Paragould operation; no current vacancy independently verified.",
+      "fit": "Manufacturing/assembly or machine support if current local demand exists and agency skills match.",
+      "rank": null,
+      "priority": "P2 — scale-based qualify",
+      "contact": "Plant HR / operations / supplier management",
+      "phone": "870-239-2171",
+      "address": "1000 South 2nd Avenue, Paragould, AR 72450",
+      "scale": "Greene County employer band 100–200; not site-specific.",
+      "sources": [
+        "Pdir",
+        "Plarge"
+      ],
+      "caveat": "No current local vacancy or agency usage evidence.",
+      "opener": "Does the Paragould site use outside staffing for temporary production or shift coverage, and what is the vendor approval path?",
+      "next": "Verify active demand and local decision maker before pursuing."
+    },
+    {
+      "name": "Parker Trutec (Paragould)",
+      "city": "Paragould",
+      "industry": "Thermochemical diffusion processing",
+      "signal": "Official Greene County directory lists Paragould operation; no current vacancy independently verified.",
+      "fit": "Specialized production/processing roles only if required technical background and safety qualifications are within agency capability.",
+      "rank": null,
+      "priority": "P2 — scale-based qualify",
+      "contact": "Plant HR / operations / safety",
+      "phone": "870-236-6920",
+      "address": "2609 N. 12th Avenue, Paragould, AR 72450",
+      "scale": "Not published in cited sources.",
+      "sources": [
+        "Pdir"
+      ],
+      "caveat": "Specialized process and hazard profile; no public hiring or staffing vendor signal.",
+      "opener": "Are there short-term production or coverage assignments at the Paragould site that you use staffing suppliers for, and what process experience is required?",
+      "next": "Ask about process-specific screening, training responsibilities, and vendor onboarding."
+    },
+    {
+      "name": "Prairie Farms (Paragould)",
+      "city": "Paragould",
+      "industry": "Dairy, juice, and ice-cream distribution",
+      "signal": "Official Greene County directory lists local distribution operation; no current vacancy independently verified.",
+      "fit": "Warehouse, route-support, loading or order-fulfillment roles if local volume and license requirements align.",
+      "rank": null,
+      "priority": "P2 — scale-based qualify",
+      "contact": "Distribution-center manager / HR / route operations",
+      "phone": "870-239-2143",
+      "address": "301 S. 2nd Avenue, Paragould, AR 72451",
+      "scale": "Not published in cited sources.",
+      "sources": [
+        "Pdir",
+        "Jadv"
+      ],
+      "caveat": "Food handling, cold storage, driving requirements, and local supplier rules need verification.",
+      "opener": "Does the Paragould distribution operation use temporary help for warehouse or seasonal volume, and which roles require a license or food-safety training?",
+      "next": "Confirm shift, duties, temperature/PPE, driving requirements, and hiring decision maker."
+    },
+    {
+      "name": "Smith Drug Company (Paragould)",
+      "city": "Paragould",
+      "industry": "Pharmaceutical distribution",
+      "signal": "Official Greene County directory lists distribution operation; no current vacancy independently verified.",
+      "fit": "Warehouse/order-fulfillment only if role requirements, screening, and regulated product handling can be met.",
+      "rank": null,
+      "priority": "P2 — scale-based qualify",
+      "contact": "Distribution-center HR / operations / security / vendor management",
+      "phone": "870-268-6100",
+      "address": "1104 Jones Road, Paragould, AR 72450",
+      "scale": "Not published in cited sources.",
+      "sources": [
+        "Pdir"
+      ],
+      "caveat": "Pharmaceutical distribution may have elevated access, background, and process controls; confirm before offering.",
+      "opener": "Are there temporary warehouse or order-fulfillment needs at the Paragould center, and what access, screening, and supplier standards apply?",
+      "next": "Verify client accepts staffing firms and understand facility access and audit requirements."
+    },
+    {
+      "name": "Ranger Tool & Die (Paragould)",
+      "city": "Paragould",
+      "industry": "Precision machining and fabrication",
+      "signal": "Official Greene County directory lists Paragould operation; no current vacancy independently verified.",
+      "fit": "Machining or fabrication roles only if the agency can recruit and assess the required shop skills.",
+      "rank": null,
+      "priority": "P2 — scale-based qualify",
+      "contact": "Owner / shop manager / HR",
+      "phone": "870-239-9041",
+      "address": "1400 South 2nd Avenue, Paragould, AR 72450",
+      "scale": "Not published in cited sources.",
+      "sources": [
+        "Pdir"
+      ],
+      "caveat": "No public vacancy or agency-use evidence; confirm whether small-site hiring is direct only.",
+      "opener": "Do backlog or project changes ever lead you to use temporary machinists or fabricators, or is this a direct-hire-only shop?",
+      "next": "Confirm work test, skill expectations, assignment length, and buyer access."
+    },
+    {
+      "name": "Smith Precision Machining (Paragould)",
+      "city": "Paragould",
+      "industry": "Custom machining and fabrication",
+      "signal": "Official Greene County directory lists Paragould operation; no current vacancy independently verified.",
+      "fit": "Machinists and fabrication support if agency skills screening matches actual shop requirements.",
+      "rank": null,
+      "priority": "P2 — scale-based qualify",
+      "contact": "Owner / shop manager / operations manager",
+      "phone": "870-236-7300",
+      "address": "101 W. Monroe, Paragould, AR 72450",
+      "scale": "Not published in cited sources.",
+      "sources": [
+        "Pdir"
+      ],
+      "caveat": "No current local hiring or staffing vendor signal.",
+      "opener": "Are there production backlogs or absences where temporary machinists help, and what skills would you want tested before a referral?",
+      "next": "Ask if they consider agency placements and what work-sample test is used."
+    },
+    {
+      "name": "The Steel Yard (Paragould)",
+      "city": "Paragould",
+      "industry": "Metal fabrication",
+      "signal": "Official Greene County directory lists a fabrication business; no current vacancy independently verified.",
+      "fit": "Fabrication/shop labor if project work or workload spikes create temporary need and safety qualifications align.",
+      "rank": null,
+      "priority": "P2 — scale-based qualify",
+      "contact": "Owner / shop manager / safety lead",
+      "phone": "870-236-8534",
+      "address": "304 N. 35th Avenue, Paragould, AR 72450",
+      "scale": "Not published in cited sources.",
+      "sources": [
+        "Pdir"
+      ],
+      "caveat": "No current hiring or agency usage evidence; confirm scope and worksite safety.",
+      "opener": "Do you ever need short-term fabrication or shop coverage for a project backlog, and would a local staffing supplier be considered?",
+      "next": "Verify role, shift, physical requirements, safety controls and vendor route."
+    },
+    {
+      "name": "Jenkins Lighting, LLC (Paragould)",
+      "city": "Paragould",
+      "industry": "Lighting manufacturing",
+      "signal": "Official Greene County directory lists Paragould manufacturer; no current vacancy independently verified.",
+      "fit": "Assembly/production support only if there is a current role and supplier channel.",
+      "rank": null,
+      "priority": "P2 — scale-based qualify",
+      "contact": "Owner / plant manager / HR",
+      "phone": "870-236-7181",
+      "address": "412 Unity Road, Paragould, AR 72450",
+      "scale": "Not published in cited sources.",
+      "sources": [
+        "Pdir"
+      ],
+      "caveat": "No current job or temp-labor signal.",
+      "opener": "Does the plant ever use temporary assembly or production support when orders rise, or do you handle all hiring directly?",
+      "next": "Confirm current role demand and whether external suppliers are considered."
+    },
+    {
+      "name": "Corbitt Manufacturing Company (Paragould)",
+      "city": "Paragould",
+      "industry": "Aluminum casting, machining, engineering and tooling",
+      "signal": "Official Greene County directory lists Paragould operation; no current vacancy independently verified.",
+      "fit": "Casting, machining, or production roles only if agency can meet technical screening and high-hazard site requirements.",
+      "rank": null,
+      "priority": "P2 — targeted qualify",
+      "contact": "Plant HR / operations / safety / procurement",
+      "phone": "636-410-3500 (directory listing; verify local routing)",
+      "address": "1200 Jones Road, Paragould, AR 72450",
+      "scale": "Not published in cited sources.",
+      "sources": [
+        "Pdir"
+      ],
+      "caveat": "Phone appears to be a central/out-of-area number. Confirm local business/legal entity and safety/vendor requirements.",
+      "opener": "Does the Paragould operation use temporary suppliers for production or project coverage, and what safety and skill qualifications must be verified?",
+      "next": "Verify current local operation, correct contact routing, role need, hazards and supplier access."
+    },
+    {
+      "name": "L.A. Darling Company (Paragould)",
+      "city": "Paragould",
+      "industry": "Store fixture manufacturing",
+      "signal": "Paragould Jobs lists Director of Operations, Senior Accountant and Design Engineer; local directory confirms manufacturer.",
+      "fit": "These are mostly professional/management roles, so treat as lower fit unless her agency covers professional or engineering search.",
+      "rank": null,
+      "priority": "P3 — capability-dependent",
+      "contact": "HR / operations / corporate recruiting",
+      "phone": "870-239-9564",
+      "address": "1401 Highway 49B, Paragould, AR 72450",
+      "scale": "Greene County city page lists Darling Store Fixtures at 200–500; name/entity should be verified.",
+      "sources": [
+        "Pjobs",
+        "Pdir",
+        "Plarge"
+      ],
+      "caveat": "Current listed roles are not obvious hourly temporary-staffing assignments; do not prioritize without professional-search capability.",
+      "opener": "The local page shows engineering, accounting, and operations hiring. Do you use contract or temporary professional talent, or are those roles direct hire only?",
+      "next": "Only pursue if her capabilities include professional/technical recruitment and client allows agency sourcing."
+    },
+    {
+      "name": "Lakeside Metal Specialties (Paragould)",
+      "city": "Paragould",
+      "industry": "Metal specialties sourcing, distribution, and warehousing",
+      "signal": "Official Greene County directory lists distribution and warehousing; Paragould Jobs currently lists National Sales Manager only.",
+      "fit": "Warehouse/fulfillment roles are a hypothesis, but the visible opening is sales management and does not establish warehouse demand.",
+      "rank": null,
+      "priority": "P3 — capability-dependent",
+      "contact": "Distribution operations / HR / site manager",
+      "phone": "870-586-0147",
+      "address": "6476 Highway 135 N, Paragould, AR 72450",
+      "scale": "Not published in cited sources.",
+      "sources": [
+        "Pjobs",
+        "Pdir"
+      ],
+      "caveat": "Visible job listing is a National Sales Manager role. Warehouse staffing need is unverified.",
+      "opener": "Do the Paragould warehouse or distribution operations ever use temporary labor for seasonal volume, even though the public listing is for a sales position?",
+      "next": "Ask about warehouse-specific need, local supplier policy, and correct worksite."
+    },
+    {
+      "name": "InnovAsian (Jonesboro)",
+      "city": "Jonesboro",
+      "industry": "Frozen-food manufacturing",
+      "signal": "Jonesboro Unlimited reports a 2026 manufacturing announcement with 200 expected jobs; operational timeline/current hiring not verified.",
+      "fit": "Ramp-up production, packaging, and warehouse roles could be relevant if the project is active and client uses staffing suppliers.",
+      "rank": null,
+      "priority": "P2 — expansion watch",
+      "contact": "Project workforce lead / HR / site operations / economic-development referral",
+      "phone": "Not verified in cited sources.",
+      "address": "Jonesboro announcement; exact operating site not verified.",
+      "scale": "2026 announcement: 200 jobs; not current employee count.",
+      "sources": [
+        "Jemp",
+        "Jadv"
+      ],
+      "caveat": "Announcement is not proof of completed facility, current hiring, or agency procurement. Verify project status first.",
+      "opener": "I saw the region’s 2026 announcement about your Jonesboro project. Has the local site moved into hiring or ramp-up, and are staffing suppliers part of your workforce plan?",
+      "next": "Verify project stage, site location, hiring timeline and supplier onboarding before outreach."
+    },
+    {
+      "name": "SANY Nutrition Group (Jonesboro)",
+      "city": "Jonesboro",
+      "industry": "Protein-snack manufacturing",
+      "signal": "Jonesboro Unlimited reports a 2026 announcement with 150 expected jobs; operating timeline/current hiring not verified.",
+      "fit": "Potential production/packaging workforce ramp if project is active and agency can meet food-site requirements.",
+      "rank": null,
+      "priority": "P2 — expansion watch",
+      "contact": "Project HR / site operations / workforce-development contact",
+      "phone": "Not verified in cited sources.",
+      "address": "Jonesboro announcement; exact operating site not verified.",
+      "scale": "2026 announcement: 150 jobs; not current employee count.",
+      "sources": [
+        "Jemp",
+        "Jadv"
+      ],
+      "caveat": "Announcement alone does not prove current hiring or staffing-agency use. Verify facility and timeline.",
+      "opener": "Has the announced Jonesboro operation started hiring or planning production staffing, and are local agency partners being considered?",
+      "next": "Confirm site status and approved supplier route."
+    },
+    {
+      "name": "Colson Group (Jonesboro area)",
+      "city": "Jonesboro area",
+      "industry": "Caster manufacturing",
+      "signal": "Jonesboro MSA guide reports approximately 130 employees; no current vacancy verified.",
+      "fit": "Manufacturing/assembly roles if current local need and site supplier path are confirmed.",
+      "rank": null,
+      "priority": "P2 — scale-based qualify",
+      "contact": "Plant HR / operations / procurement",
+      "phone": "Not verified in cited sources.",
+      "address": "Jonesboro MSA; exact site not verified.",
+      "scale": "130 in Jonesboro MSA guide.",
+      "sources": [
+        "Jemp"
+      ],
+      "caveat": "No current job or agency use evidence.",
+      "opener": "Does your local plant use temporary help for production coverage, and is a new staffing vendor an option?",
+      "next": "Verify location, current hiring, and supplier qualification path."
+    },
+    {
+      "name": "Colson Monette (Jonesboro area)",
+      "city": "Jonesboro area",
+      "industry": "Rubber and plastic molding",
+      "signal": "Jonesboro MSA guide reports approximately 50 employees; no current vacancy verified.",
+      "fit": "Production/operator support if current shift coverage or volume need is confirmed.",
+      "rank": null,
+      "priority": "P2 — scale-based qualify",
+      "contact": "Plant manager / HR / operations",
+      "phone": "Not verified in cited sources.",
+      "address": "Jonesboro MSA; exact site not verified.",
+      "scale": "50 in Jonesboro MSA guide.",
+      "sources": [
+        "Jemp"
+      ],
+      "caveat": "No public hiring or staffing-vendor evidence.",
+      "opener": "Do production peaks or absences ever create temporary operator needs, or is the work filled through direct hiring?",
+      "next": "Confirm local worksite and agency acceptance."
+    },
+    {
+      "name": "Crane Composites (Jonesboro area)",
+      "city": "Jonesboro area",
+      "industry": "Fiberglass panels manufacturing",
+      "signal": "Jonesboro MSA guide reports approximately 110 employees; no current vacancy verified.",
+      "fit": "Production/finishing roles only if site hazards, PPE and screening needs match agency process.",
+      "rank": null,
+      "priority": "P2 — scale-based qualify",
+      "contact": "Plant HR / operations / safety",
+      "phone": "Not verified in cited sources.",
+      "address": "Jonesboro MSA; exact site not verified.",
+      "scale": "110 in Jonesboro MSA guide.",
+      "sources": [
+        "Jemp"
+      ],
+      "caveat": "No evidence of current hiring or temp use; verify chemical/fiberglass exposure controls with client.",
+      "opener": "Does the operation use temporary production staff, and what training and protective equipment must be arranged before a shift?",
+      "next": "Review hazards and training responsibility before marketing fit."
+    },
+    {
+      "name": "Apex Tool Group (Jonesboro area)",
+      "city": "Jonesboro area",
+      "industry": "Tool boxes and fuel tanks manufacturing",
+      "signal": "Jonesboro MSA guide reports approximately 120 employees; no current local vacancy verified.",
+      "fit": "Assembly, fabrication or warehouse roles if current needs and supplier route are confirmed.",
+      "rank": null,
+      "priority": "P2 — scale-based qualify",
+      "contact": "Plant HR / operations / procurement",
+      "phone": "Not verified in cited sources.",
+      "address": "Jonesboro MSA; exact facility not verified.",
+      "scale": "120 in Jonesboro MSA guide.",
+      "sources": [
+        "Jemp"
+      ],
+      "caveat": "No current job or temp-use evidence.",
+      "opener": "Does your local operation use agency labor for temporary production or shipping coverage, and are new vendors considered?",
+      "next": "Confirm exact local site, buyer and open role family."
+    },
+    {
+      "name": "Ditta Door & Hardware (Jonesboro area)",
+      "city": "Jonesboro area",
+      "industry": "Door, hardware and specialty product manufacturing/distribution",
+      "signal": "Jonesboro MSA guide reports approximately 100 employees; no current local vacancy verified.",
+      "fit": "Warehouse, fabrication or order fulfillment if actual need and role requirements fit.",
+      "rank": null,
+      "priority": "P2 — scale-based qualify",
+      "contact": "Branch/plant manager / HR / operations",
+      "phone": "Not verified in cited sources.",
+      "address": "Jonesboro MSA; exact address not verified.",
+      "scale": "100 in Jonesboro MSA guide.",
+      "sources": [
+        "Jemp"
+      ],
+      "caveat": "No active hiring or staffing supplier signal; exact operation and role must be verified.",
+      "opener": "Do order cycles or project spikes create temporary warehouse or fabrication needs, and would you consider a local staffing partner?",
+      "next": "Ask about worksite, job duties, schedule and supplier acceptance."
+    },
+    {
+      "name": "SMA (Jonesboro area)",
+      "city": "Jonesboro area",
+      "industry": "Farm equipment distribution",
+      "signal": "Jonesboro MSA guide reports approximately 150 employees; no current vacancy verified.",
+      "fit": "Warehouse, inventory or seasonal receiving support if the role and equipment requirements align.",
+      "rank": null,
+      "priority": "P2 — scale-based qualify",
+      "contact": "Distribution manager / HR / operations",
+      "phone": "Not verified in cited sources.",
+      "address": "Jonesboro MSA; exact address not verified.",
+      "scale": "150 in Jonesboro MSA guide.",
+      "sources": [
+        "Jemp"
+      ],
+      "caveat": "No current job or agency-use evidence.",
+      "opener": "Does seasonal demand or inventory activity create temporary warehouse needs, and what equipment or product-handling qualifications apply?",
+      "next": "Confirm local site and contingent staffing process."
+    }
+  ],
+  "ranked": [
+    {
+      "name": "ARCOT Industrial Manufacturing, LLC",
+      "city": "Paragould",
+      "industry": "Machining and fabrication",
+      "signal": "Paragould Jobs lists Fiber Laser Operator.",
+      "fit": "Fiber-laser/operator support; only if the agency can recruit for the required machine skills and safety orientation.",
+      "rank": 1,
+      "priority": "P1 — qualify now",
+      "contact": "HR / plant manager / operations manager responsible for contingent labor",
+      "phone": "870-239-3449",
+      "address": "405 N. Pruett, Paragould, AR 72450",
+      "scale": "Not published in cited sources.",
+      "sources": [
+        "Pjobs",
+        "Pdir"
+      ],
+      "caveat": "City listing is a direct-hire vacancy signal, not proof of temporary need or vendor access.",
+      "opener": "I saw the local listing for a Fiber Laser Operator. Do you ever use temporary labor for coverage or production peaks, or is this role direct-hire only?",
+      "next": "Call the published main line; ask who owns plant staffing/vendor onboarding and whether any temporary labor need exists."
+    },
+    {
+      "name": "Fabco Machine Corporation (FABCO)",
+      "city": "Paragould",
+      "industry": "Precision machining and fabrication",
+      "signal": "Paragould Jobs lists Machinist and Fabricator Programmer roles.",
+      "fit": "Machinists/fabricators if agency has skilled-trades recruiting depth; do not offer unqualified general labor as a substitute.",
+      "rank": 2,
+      "priority": "P1 — qualify now",
+      "contact": "Owner / HR / shop manager / operations manager",
+      "phone": "870-586-0743",
+      "address": "1200 Greene 628 Road, Paragould, AR 72450",
+      "scale": "Not published in cited sources.",
+      "sources": [
+        "Pjobs",
+        "Pdir"
+      ],
+      "caveat": "Specialized vacancies may require experience, measurement skills, and shop-specific screening.",
+      "opener": "The Paragould jobs page lists machinist and fabricator-programmer openings. Are there any short-term, project, or temp-to-hire gaps alongside your direct recruiting?",
+      "next": "Call published main line; qualify whether she can source machinists/programmers and whether client accepts a new agency."
+    },
+    {
+      "name": "Allen Engineering Corporation",
+      "city": "Paragould",
+      "industry": "Concrete and paving equipment manufacturing",
+      "signal": "Paragould Jobs lists Manufacturing Maintenance Technician.",
+      "fit": "Maintenance technician only if agency can verify industrial maintenance experience and any required credentials.",
+      "rank": 3,
+      "priority": "P1 — qualify now",
+      "contact": "HR / plant manager / maintenance leader",
+      "phone": "870-236-7751",
+      "address": "819 S. 5th Street, Paragould, AR 72451",
+      "scale": "Greene County employer band 100–200 (regional city page); not site headcount.",
+      "sources": [
+        "Pjobs",
+        "Pdir",
+        "Plarge"
+      ],
+      "caveat": "Maintenance is safety-sensitive and skilled; confirm exact qualifications and worksite requirements before sourcing.",
+      "opener": "I saw a Manufacturing Maintenance Technician listing in Paragould. Is that a direct-hire-only search, or do you ever use contract or temporary coverage for maintenance work?",
+      "next": "Call main line; ask to route to HR or plant leadership and confirm vendor qualification requirements."
+    },
+    {
+      "name": "Cupples Sign Company",
+      "city": "Paragould",
+      "industry": "Sign fabrication",
+      "signal": "Paragould Jobs lists Fabricator.",
+      "fit": "Fabrication/shop support during workload peaks if the agency can recruit for the required materials and tools.",
+      "rank": 4,
+      "priority": "P1 — qualify now",
+      "contact": "Owner / shop manager / HR",
+      "phone": "Not verified in cited sources.",
+      "address": "Paragould, AR (exact site address not verified in cited sources)",
+      "scale": "Not published in cited sources.",
+      "sources": [
+        "Pjobs"
+      ],
+      "caveat": "Only one fabricator role is visible; size and temp-labor use are unknown.",
+      "opener": "The local jobs page shows a Fabricator opening. Do you ever need short-term production coverage when workload increases, or are you handling hiring entirely in-house?",
+      "next": "Use employer listing on the city page to reach the official application/contact route; verify the correct site and decision-maker."
+    },
+    {
+      "name": "Laubach Logistics",
+      "city": "Paragould area",
+      "industry": "Logistics and trucking",
+      "signal": "Paragould Jobs lists CDL drivers.",
+      "fit": "CDL drivers only if agency is set up for license verification, motor-vehicle checks, insurance/client standards, and safety screening.",
+      "rank": 5,
+      "priority": "P1 — qualify now",
+      "contact": "Terminal manager / recruiting / safety / owner",
+      "phone": "Not verified in cited sources.",
+      "address": "Paragould-area listing; physical worksite not verified.",
+      "scale": "Not published in cited sources.",
+      "sources": [
+        "Pjobs"
+      ],
+      "caveat": "Commercial driving carries specialized screening, insurance, and safety constraints; do not pitch before capability is confirmed.",
+      "opener": "The local jobs page lists CDL drivers. Are any of those openings tied to leave, seasonal volume, or a temporary route need, and what carrier/vendor checks would an agency have to meet?",
+      "next": "Verify local operating site and agency/client insurance requirements before offering candidates."
+    },
+    {
+      "name": "Delta Asphalt",
+      "city": "Paragould / Greene County",
+      "industry": "Road construction and paving",
+      "signal": "Paragould Jobs lists paving crew laborer, finish blade operator, heavy-equipment operator, and related roles.",
+      "fit": "Seasonal/project crews if agency can handle construction safety, site orientation, and equipment qualifications.",
+      "rank": 6,
+      "priority": "P1 — qualify now",
+      "contact": "Local operations manager / project manager / HR / safety lead",
+      "phone": "Not verified in cited sources.",
+      "address": "Greene County listing; exact worksite varies by project.",
+      "scale": "Not published in cited sources.",
+      "sources": [
+        "Pjobs"
+      ],
+      "caveat": "Project locations, seasonality, equipment certification, and safety controls need to be confirmed; page roles may be direct hire.",
+      "opener": "I saw several paving and operator roles listed locally. Do you ever need temporary crew coverage for a project or seasonal surge, and which qualifications are non-negotiable?",
+      "next": "Verify agency ability to cover mobile worksites, safety coordination, and travel before pursuing."
+    },
+    {
+      "name": "Nunn’s Construction",
+      "city": "Paragould / Greene County",
+      "industry": "Construction",
+      "signal": "Paragould Jobs lists Construction Worker.",
+      "fit": "General construction labor only if agency has appropriate safety, screening, worksite, and insurance processes.",
+      "rank": 7,
+      "priority": "P1 — qualify now",
+      "contact": "Owner / project manager / safety lead",
+      "phone": "Not verified in cited sources.",
+      "address": "Greene County listing; exact site not verified.",
+      "scale": "Not published in cited sources.",
+      "sources": [
+        "Pjobs"
+      ],
+      "caveat": "Construction roles can involve high hazards and variable job sites; verify insurance and safety responsibilities before quoting.",
+      "opener": "I noticed the local listing for a Construction Worker. Do you ever need short-duration crew coverage on projects, or is your need strictly permanent hiring?",
+      "next": "Ask about worksite hazards, assignment length, required training/PPE, and any contractor-vendor criteria."
+    },
+    {
+      "name": "Martin Sprocket & Gear",
+      "city": "Paragould",
+      "industry": "Sprockets, gears, and industrial components",
+      "signal": "Paragould Jobs lists CNC Machine Operator, Machine Operator, Powder Press Operator, and Quality Control Inspector.",
+      "fit": "Machine operators and quality inspectors if screening can verify safety, measurement, and equipment experience.",
+      "rank": 8,
+      "priority": "P1 — qualify now",
+      "contact": "HR / plant manager / operations leader / procurement vendor contact",
+      "phone": "870-239-8558",
+      "address": "1205 South 3rd Avenue, Paragould, AR 72450",
+      "scale": "Greene County employer band 200–500 (regional city page); not site headcount.",
+      "sources": [
+        "Pjobs",
+        "Pdir",
+        "Plarge"
+      ],
+      "caveat": "Multiple listed role families are evidence of recruiting activity only. Larger-company vendor onboarding may be significant.",
+      "opener": "The local listing shows several operator and quality roles. Are there specific shifts or production periods where temporary coverage helps, or are all roles direct hire?",
+      "next": "Ask about contingent-labor policy, vendor onboarding, shifts, screening and bill-rate approval process."
+    },
+    {
+      "name": "KNL Holdings, LLC",
+      "city": "Paragould",
+      "industry": "Material handling trailers",
+      "signal": "Paragould Jobs lists Final Assemblers and Welders (plus technical roles).",
+      "fit": "Assembly and welding only if agency has verified trade-specific skills and can meet site safety requirements.",
+      "rank": 9,
+      "priority": "P1 — qualify now",
+      "contact": "HR / operations manager / production manager",
+      "phone": "870-236-7753",
+      "address": "603 N. 3rd Avenue, Paragould, AR 72451",
+      "scale": "Greene County employer band 100–200; not site headcount.",
+      "sources": [
+        "Pjobs",
+        "Pdir",
+        "Plarge"
+      ],
+      "caveat": "Welding assignments require confirmation of process, position, testing, certification, and PPE/site requirements.",
+      "opener": "The public local listing includes final assemblers and welders. Are any staffing needs temporary, project-based, or temp-to-hire, and what weld test or experience would be required?",
+      "next": "Ask which roles are open to agency supply and what skills tests, orientation, and vendor paperwork apply."
+    },
+    {
+      "name": "GRT Rubber Technologies",
+      "city": "Paragould",
+      "industry": "Rubber conveyor belts and sheet rubber",
+      "signal": "Paragould Jobs lists Inline Operator and several technical/management roles.",
+      "fit": "Inline/operator support if agency can recruit and document relevant production experience.",
+      "rank": 10,
+      "priority": "P1 — qualify now",
+      "contact": "HR / plant manager / production manager",
+      "phone": "870-239-4051",
+      "address": "201 Dana Drive, Paragould, AR 72451",
+      "scale": "Not published in cited sources.",
+      "sources": [
+        "Pjobs",
+        "Pdir"
+      ],
+      "caveat": "A vacancy does not establish recurring turnover, agency use, or willingness to onboard a new vendor.",
+      "opener": "I saw the Inline Operator role on the local jobs page. Do you ever use temporary help for coverage or production surges, and what would a reliable agency need to demonstrate?",
+      "next": "Call published line; determine whether need is coverage, peak volume, or direct-hire only."
+    },
+    {
+      "name": "Prysmian Group / Prestolite Wire",
+      "city": "Paragould",
+      "industry": "Wire and cable manufacturing",
+      "signal": "Paragould Jobs lists Night Shift Machine Operator and Maintenance Operator.",
+      "fit": "Machine operators/maintenance only if agency matches shift availability and technical screening needs.",
+      "rank": 11,
+      "priority": "P1 — qualify now",
+      "contact": "HR / plant manager / procurement / operations",
+      "phone": "870-236-8141",
+      "address": "#1 Prestolite Drive, Paragould, AR 72450",
+      "scale": "Greene County employer band 200–500 for Prysmian/Prestolite Wire (not local-site headcount).",
+      "sources": [
+        "Pjobs",
+        "Pdir",
+        "Plarge"
+      ],
+      "caveat": "Corporate vendor rules and safety-sensitive roles may add onboarding time and cost.",
+      "opener": "The Paragould job list shows a night-shift operator and maintenance role. Are any of your staffing gaps shift coverage or temporary capacity, and how do you approve staffing suppliers?",
+      "next": "Ask for the local HR/plant contact and supplier onboarding steps; confirm shift differential/pay expectations."
+    },
+    {
+      "name": "Utility Trailer Manufacturing",
+      "city": "Paragould",
+      "industry": "Dry box trailer manufacturing",
+      "signal": "Paragould Jobs lists Fabricator, Assembler, and Welder roles.",
+      "fit": "Assembly/fabrication/welding based on the agency’s actual skill-screening and safety capability.",
+      "rank": 12,
+      "priority": "P1 — qualify now",
+      "contact": "HR / plant manager / production supervisor / vendor management",
+      "phone": "870-236-9195",
+      "address": "2921 Highway 49 North, Paragould, AR 72451",
+      "scale": "Greene County employer band 700–1,100; not a single-site headcount.",
+      "sources": [
+        "Pjobs",
+        "Pdir",
+        "Plarge"
+      ],
+      "caveat": "Large local employer likely has a formal vendor path; verify before spending time on a custom proposal.",
+      "opener": "I saw the local postings for assemblers, fabricators and welders. Does the plant ever use temporary or temp-to-hire labor for any of those shifts, and how can a new supplier qualify?",
+      "next": "First ask whether new agency suppliers are accepted and who owns supplier qualification."
+    },
+    {
+      "name": "Anchor Packaging / Georgia-Pacific (Paragould operations)",
+      "city": "Paragould / Marmaduke",
+      "industry": "Food packaging manufacturing and distribution",
+      "signal": "Paragould Jobs lists sheetline/extruder operator, material handler, packer, production operator, and quality auditor; local directory lists two production sites and a distribution center.",
+      "fit": "Production, packing, and material handling are plausible role families if facility accepts agencies and she can satisfy safety requirements.",
+      "rank": 13,
+      "priority": "P1 — qualify now",
+      "contact": "Site HR / plant manager / distribution-center operations / vendor management",
+      "phone": "870-236-2262 (Paragould production); 870-565-1884 (regional distribution center)",
+      "address": "2211 N. 12th Avenue, Paragould, AR 72450; DC at 1600 Jones Road",
+      "scale": "Greene County city page lists Anchor Industries at 700–1,100; name/entity match should be confirmed.",
+      "sources": [
+        "Pjobs",
+        "Pdir",
+        "Plarge"
+      ],
+      "caveat": "Multiple locations and changing operator/entity names; confirm the legal hiring entity, location, shift, and supplier process.",
+      "opener": "The local listing shows production, material-handling and packing roles, and the directory lists a regional distribution center. Is there a temporary coverage or peak-volume need at any one site?",
+      "next": "Clarify which facility is hiring, role/shift, whether agency vendors are permitted, and how each site handles safety orientation."
+    },
+    {
+      "name": "Greenbrier Rail",
+      "city": "Paragould / Marmaduke",
+      "industry": "Hopper and tank railcar manufacturing",
+      "signal": "Paragould Jobs lists Welder 2; local directory confirms Paragould and Marmaduke facilities.",
+      "fit": "Experienced welders only if agency can validate process-specific skill and coordinate site safety requirements.",
+      "rank": 14,
+      "priority": "P1 — qualify now",
+      "contact": "Site HR / welding supervisor / plant manager / procurement",
+      "phone": "870-236-6600 (Paragould); 870-597-2224 (Marmaduke)",
+      "address": "901 Jones Road, Paragould; 7755 Highway 34 East, Marmaduke",
+      "scale": "Greene County employer band 1,100–1,300; not facility-specific.",
+      "sources": [
+        "Pjobs",
+        "Pdir",
+        "Plarge"
+      ],
+      "caveat": "High-hazard industrial work and formal supplier requirements are likely to affect fit, but must be verified. Company careers page’s temporary-employee portal does not prove outside-agency use.",
+      "opener": "The local page lists a Welder 2 role. Does the site ever source temporary welders or short-term project coverage through outside agencies, and what weld test and safety qualifications are required?",
+      "next": "Qualify supplier access and weld/safety competency expectations before recruiting candidates."
+    },
+    {
+      "name": "Unilever (Jonesboro)",
+      "city": "Jonesboro",
+      "industry": "Personal-care product manufacturing",
+      "signal": "Employer career page listed Machine Operator full-time role posted 2026-09-30 through 2026-10-15, including second/third shifts; direct-hire posting.",
+      "fit": "Experienced machine operators and maintenance support if agency meets vendor rules, technical checks, and shift requirements.",
+      "rank": 15,
+      "priority": "P2 — targeted qualify",
+      "contact": "Plant HR / contingent-labor or procurement lead / operations",
+      "phone": "Not verified in cited sources.",
+      "address": "Jonesboro, AR (facility page); exact street address not verified here.",
+      "scale": "392 in Jonesboro MSA 2025 guide; not a current site headcount.",
+      "sources": [
+        "Unilever",
+        "Jemp"
+      ],
+      "caveat": "Posting explicitly describes full-time direct hire. Its temporary-labor need is unverified; large-company vendor entry may be difficult.",
+      "opener": "I saw the Jonesboro Machine Operator posting and its second/third-shift schedules. Are those needs strictly direct hire, or does the plant also use staffing suppliers for coverage or ramp-ups?",
+      "next": "Prioritize only after confirming the listing is active and that the plant can accept a new staffing supplier."
+    }
+  ]
+}

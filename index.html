@@ -1,0 +1,155 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#102b3f">
+  <meta name="description" content="A phone-friendly starting point for reviewing Northeast Arkansas staffing employer prospects, outreach guidance, and the blank rate model.">
+  <title>Northeast Arkansas Staffing Prospect Kit</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --ink: #152a38;
+      --muted: #526473;
+      --navy: #102b3f;
+      --navy-soft: #193d53;
+      --paper: #f4f2ec;
+      --card: #fffefa;
+      --line: #d7dedb;
+      --accent: #c8e36b;
+      --accent-dark: #334819;
+      --blue-wash: #eaf1f3;
+      --warning: #fff4d8;
+      --warning-line: #e8d39a;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body { margin: 0; background: var(--paper); color: var(--ink); line-height: 1.55; }
+    a { color: inherit; }
+    .skip { position: absolute; left: -9999px; top: 0; padding: .8rem 1rem; background: white; color: var(--ink); z-index: 5; }
+    .skip:focus { left: 1rem; top: 1rem; }
+    .hero { background: var(--navy); color: #f7f8f4; padding: 2.25rem max(1.1rem, calc((100% - 1080px) / 2)) 2rem; }
+    .eyebrow { color: var(--accent); font-size: .77rem; font-weight: 800; letter-spacing: .14em; text-transform: uppercase; }
+    h1 { max-width: 780px; margin: .75rem 0 .65rem; font-size: clamp(2rem, 8vw, 4.2rem); line-height: 1.02; letter-spacing: -.045em; }
+    .hero p { max-width: 700px; margin: 0; color: #d3e0e6; font-size: 1.07rem; }
+    .hero-meta { display: flex; flex-wrap: wrap; gap: .55rem; margin-top: 1.3rem; }
+    .pill { display: inline-flex; align-items: center; min-height: 2rem; padding: .32rem .72rem; border: 1px solid #60798a; border-radius: 999px; color: #f4f7f2; font-size: .83rem; }
+    main { width: min(1080px, 100% - 2.2rem); margin: 1.55rem auto 3rem; }
+    .stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: .8rem; margin: -2.4rem 0 1.8rem; position: relative; }
+    .stat { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 1rem; box-shadow: 0 8px 26px #122b3b0b; }
+    .stat strong { display: block; color: var(--navy); font-size: 1.6rem; line-height: 1.15; }
+    .stat span { color: var(--muted); font-size: .83rem; }
+    section { margin-top: 2rem; }
+    h2 { margin: 0 0 .45rem; color: var(--navy); font-size: clamp(1.35rem, 4vw, 1.9rem); line-height: 1.2; letter-spacing: -.025em; }
+    .section-intro { margin: 0 0 1rem; max-width: 720px; color: var(--muted); }
+    .cards { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .9rem; }
+    .card { display: flex; flex-direction: column; background: var(--card); border: 1px solid var(--line); border-radius: 16px; padding: 1.1rem; min-height: 205px; }
+    .card.primary { border: 2px solid var(--navy-soft); }
+    .card-label { margin-bottom: .45rem; color: #586f7a; font-size: .73rem; font-weight: 800; letter-spacing: .12em; text-transform: uppercase; }
+    .card h3 { margin: 0 0 .4rem; color: var(--navy); font-size: 1.14rem; line-height: 1.25; }
+    .card p { margin: 0 0 1rem; color: var(--muted); font-size: .94rem; }
+    .button { display: inline-flex; align-items: center; justify-content: center; width: fit-content; min-height: 2.8rem; margin-top: auto; padding: .68rem .95rem; border: 0; border-radius: 9px; background: var(--navy); color: white; text-decoration: none; font-weight: 750; }
+    .button:hover, .button:focus-visible { background: var(--navy-soft); outline: 3px solid #9dbbc9; outline-offset: 2px; }
+    .button.secondary { background: var(--blue-wash); color: var(--navy); }
+    .button.secondary:hover, .button.secondary:focus-visible { background: #d8e6e9; }
+    .steps { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: .8rem; counter-reset: step; }
+    .step { padding: 1rem; border-radius: 14px; background: var(--blue-wash); }
+    .step::before { counter-increment: step; content: "0" counter(step); display: block; color: #607d89; font-size: .76rem; font-weight: 850; letter-spacing: .12em; }
+    .step h3 { margin: .3rem 0 .25rem; font-size: 1rem; }
+    .step p { margin: 0; color: var(--muted); font-size: .91rem; }
+    .notice { padding: 1rem 1.1rem; border: 1px solid var(--warning-line); border-radius: 14px; background: var(--warning); }
+    .notice h2 { font-size: 1.18rem; }
+    .notice p { margin: .35rem 0 0; color: #514b39; }
+    .fine-print { margin-top: 1.8rem; padding-top: 1rem; border-top: 1px solid var(--line); color: var(--muted); font-size: .84rem; }
+    .fine-print a { text-underline-offset: .16em; }
+    footer { padding: 1.25rem 1rem 2rem; background: #e8e8e0; color: #465661; text-align: center; font-size: .83rem; }
+    @media (max-width: 680px) {
+      .hero { padding: 1.7rem 1.1rem 3.2rem; }
+      main { width: min(100% - 1.4rem, 540px); margin-top: 1rem; }
+      .stats { gap: .45rem; margin-top: -2.45rem; }
+      .stat { padding: .75rem .65rem; border-radius: 11px; }
+      .stat strong { font-size: 1.25rem; }
+      .stat span { font-size: .72rem; line-height: 1.25; display: block; }
+      .cards, .steps { grid-template-columns: 1fr; }
+      .card { min-height: 0; }
+      .button { width: 100%; }
+      section { margin-top: 1.55rem; }
+    }
+    @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+  </style>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to the kit</a>
+  <header class="hero">
+    <div class="eyebrow">Northeast Arkansas · Staffing sales toolkit</div>
+    <h1>A practical starting point for finding employer accounts</h1>
+    <p>Review locally researched employer candidates, a prioritized first-call plan, and a practical guide for qualifying temporary staffing opportunities.</p>
+    <div class="hero-meta" aria-label="Research details">
+      <span class="pill">Research checked October 12, 2026</span>
+      <span class="pill">Built for Jonesboro, Paragould & nearby communities</span>
+    </div>
+  </header>
+
+  <main id="main">
+    <div class="stats" aria-label="Package summary">
+      <div class="stat"><strong>57</strong><span>employer candidates</span></div>
+      <div class="stat"><strong>15</strong><span>prioritized accounts</span></div>
+      <div class="stat"><strong>0</strong><span>employers contacted</span></div>
+    </div>
+
+    <section aria-labelledby="documents-title">
+      <h2 id="documents-title">Open the toolkit</h2>
+      <p class="section-intro">Start with the short priority guide, then use the workbook and call playbook as needed. The files open in your phone’s browser or download for a compatible app.</p>
+      <div class="cards">
+        <article class="card primary">
+          <div class="card-label">Recommended first</div>
+          <h3>Top 15 employers &amp; 30-day plan</h3>
+          <p>A ranked first-call list with a manageable four-week outreach sequence and reasons each account merits qualification.</p>
+          <a class="button" href="Top_15_Employer_Prospects_and_30_Day_Plan.pdf">Read the priority guide (PDF)</a>
+        </article>
+        <article class="card">
+          <div class="card-label">Research database</div>
+          <h3>Employer prospects &amp; rate model</h3>
+          <p>All 57 candidates, public-source links, qualification notes, contact roles, and a blank bill-rate / payroll-cash worksheet.</p>
+          <a class="button secondary" href="Employer_Prospects_and_Rate_Model.xlsx" download>Get the workbook (XLSX)</a>
+        </article>
+        <article class="card">
+          <div class="card-label">Conversation guide</div>
+          <h3>Staffing employer outreach playbook</h3>
+          <p>Call openings, discovery prompts, qualification, objection responses, and a checklist to complete before preparing a quote.</p>
+          <a class="button secondary" href="Staffing_Employer_Outreach_Playbook.pdf">Read the outreach playbook (PDF)</a>
+        </article>
+        <article class="card">
+          <div class="card-label">Full package</div>
+          <h3>Download the complete kit</h3>
+          <p>Keep the prospect workbook, priority plan, outreach playbook, and supporting research files together.</p>
+          <a class="button secondary" href="Temporary_Staffing_Employer_Prospecting_Kit.zip" download>Download the full kit (ZIP)</a>
+        </article>
+      </div>
+    </section>
+
+    <section aria-labelledby="steps-title">
+      <h2 id="steps-title">A simple way to use it</h2>
+      <p class="section-intro">The research helps prepare relevant conversations. It does not confirm a current opening or an employer’s interest in agency labor.</p>
+      <div class="steps">
+        <article class="step"><h3>Read the top 15</h3><p>Use the priority guide to choose a small first group and see the proposed 30-day cadence.</p></article>
+        <article class="step"><h3>Check fit before calling</h3><p>Confirm the public signal is still current, identify who handles contingent labor, and verify the agency can safely fill the role.</p></article>
+        <article class="step"><h3>Use the workbook to track</h3><p>Record only real outreach and enter actual payroll, insurance, recruiting, and payment-delay inputs before using the rate model.</p></article>
+      </div>
+    </section>
+
+    <section class="notice" aria-labelledby="limits-title">
+      <h2 id="limits-title">What this research does and does not say</h2>
+      <p>The 57 companies are employer candidates worth qualifying. Public hiring signals, employer size, and expansion announcements do not prove temporary labor demand, agency use, supplier access, or purchase intent. No employer has been contacted.</p>
+      <p>The agency’s service mix, insurance, screening, payroll, and safety capabilities were not verified. Confirm the agency’s fit and applicable requirements before discussing or accepting an assignment, especially in driving, skilled trades, food production, construction, healthcare, and other safety-sensitive work.</p>
+    </section>
+
+    <div class="fine-print">
+      <p><strong>Research scope:</strong> public sources checked October 12, 2026. Contact details, job listings, site status, and vendor processes can change; verify them before outreach. The rate model intentionally contains no assumed pay rate, markup, margin target, or client bill rate.</p>
+      <p><a href="https://github.com/DaricHughesJ/northeast-arkansas-staffing-prospects/blob/main/START_HERE.md">Read the full research notes and usage instructions</a> · <a href="https://github.com/DaricHughesJ/northeast-arkansas-staffing-prospects">View the source files</a></p>
+    </div>
+  </main>
+  <footer>Prepared as a prospecting aid for a Northeast Arkansas temporary staffing agency. Verify details and agency capability before relying on them.</footer>
+</body>
+</html>

@@ -4,6 +4,7 @@ A prospecting and sales enablement package designed for a temporary staffing age
 
 ## Open on a phone
 
+- [Open the phone-friendly prospect kit](https://darichughesj.github.io/northeast-arkansas-staffing-prospects/)
 - [Top 15 employer prospects and 30-day plan (PDF)](Top_15_Employer_Prospects_and_30_Day_Plan.pdf)
 - [Employer prospects and rate model (XLSX)](Employer_Prospects_and_Rate_Model.xlsx)
 - [Staffing employer outreach playbook (PDF)](Staffing_Employer_Outreach_Playbook.pdf)
